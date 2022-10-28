@@ -3,8 +3,8 @@
 ### Quick start
 *   Run command
 ```
-chmod +x load_data.sh
-./load_data.sh
+chmod +x load_weights.sh
+./load_weights.sh
 ```
 *   Run main.py
 
