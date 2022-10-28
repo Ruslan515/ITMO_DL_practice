@@ -2,7 +2,7 @@
 ### Models:
 *   CatBoost
 *   Bert
-*   SentenceBert all-MiniLM-L6-v2
+*   SentenceBert
 
 ### Quick start
 *   Install dependencies
@@ -16,3 +16,8 @@ Models   |  F1 Macro
   ---    |    ---              
 CatBoost |   0.85 |
 Bert     |   0.98 |
+
+### Perfomance
+#### SentenceBert:
+GPU: Tesla T4
+Inference speed: 4500 sentences of length 128 per second
