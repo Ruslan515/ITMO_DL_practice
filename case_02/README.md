@@ -1,4 +1,8 @@
 # Company names matcher
+### Models:
+*   CatBoost
+*   Bert
+*   Sentence transformer: all-MiniLM-L6-v2
 
 ### Quick start
 *   Install dependencies
