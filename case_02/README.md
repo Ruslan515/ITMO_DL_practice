@@ -1,12 +1,11 @@
 # Company names matcher
 
 ### Quick start
-*   Run command
+*   Install dependencies
 ```
-chmod +x load_weights.sh
-./load_weights.sh
+pip install -r requirements.txt
 ```
-*   Run main.py
+*   Use [similar_companies.ipynb](https://github.com/Ruslan515/ITMO_DL_practice/blob/main/case_02/similar_companies.ipynb) to demonstrate how the project works
 
 ### Metrics
 Models   |  F1 Macro
