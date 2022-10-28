@@ -6,5 +6,5 @@ ITMO DL in practice
 Models   |  F1 Macro
   ---    |    ---              
 Word2Vec |   ?    |
-CatBoost |   ?    |
+CatBoost |   0.85 |
 Bert     |   0.98 |
