@@ -3,7 +3,7 @@ ITMO DL in practice
 
 
 ### Metrics
-Models   |  f1 macro
+Models   |  F1 Macro
   ---    |    ---              
 Word2Vec |   ?    |
 CatBoost |   ?    |
