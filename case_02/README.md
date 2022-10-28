@@ -5,7 +5,7 @@
 ```
 pip install -r requirements.txt
 ```
-*   Use [similar_companies.ipynb](https://github.com/Ruslan515/ITMO_DL_practice/blob/main/case_02/similar_companies.ipynb) to demonstrate how the project works
+*   Use [similar_companies.ipynb](https://github.com/Ruslan515/ITMO_DL_practice/blob/main/case_02/similar_companies.ipynb) to demonstrate results
 
 ### Metrics
 Models   |  F1 Macro
