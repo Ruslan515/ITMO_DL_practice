@@ -5,9 +5,17 @@
 *   SentenceBert
 
 ### Quick start
-*   Install dependencies
 ```
+# clone repository
+git clone https://github.com/Ruslan515/ITMO_DL_practice
+
+cd ITMO_DL_practice/case_02
+
+# install dependencies
 pip install -r requirements.txt
+
+# run pipeline
+python main.py
 ```
 *   Use [similar_companies.ipynb](https://github.com/Ruslan515/ITMO_DL_practice/blob/main/case_02/similar_companies.ipynb) to demonstrate results
 
